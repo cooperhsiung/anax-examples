@@ -2,7 +2,7 @@
 
 some spider examples based on Anax.
 
-continuous updating... (ง๑ •̀\_•́)ง
+continuous updating... (ง๑ •̀_•́)ง
 
 # examples
 
