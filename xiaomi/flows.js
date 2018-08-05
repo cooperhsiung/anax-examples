@@ -1,7 +1,7 @@
 /**
  * Created by Cooper on 2018/8/4.
  */
-const sleep  = require('anax/sleep');
+const sleep  = require('anax/lib/sleep');
 
 let flow0 = {
   seed: true,
