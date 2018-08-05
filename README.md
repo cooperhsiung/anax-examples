@@ -2,14 +2,10 @@
 
 some spider examples based on Anax.
 
-
-continuous updating... (ง๑ •̀_•́)ง
-
+continuous updating... (ง๑ •̀\_•́)ง
 
 # examples
 
- - xiaomi app store
- - huawei app store
- 
-
-
+- xiaomi app store
+- huawei app store
+- tmall product
