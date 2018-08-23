@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/cooperhsiung/anax-examples#readme",
   "dependencies": {
-    "anax": "^1.1.3"
+    "anax": "^1.1.5"
   }
 }
