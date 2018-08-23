@@ -1,8 +1,8 @@
 # anax-examples
 
-some spider examples based on Anax.
+some spider examples based on [Anax](https://github.com/cooperhsiung/anax).
 
-continuous updating... (ง๑ •̀\_•́)ง
+continually updating... (ง๑ •̀\_•́)ง
 
 # examples
 
